@@ -1,2 +1,2 @@
 # Algoritmia
-Prácticas de Algoritmia en Java
+Prácticas de Algoritmia en Python
