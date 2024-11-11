@@ -1,2 +1,3 @@
 # Algoritmia
-Prácticas de Algoritmia en Python
+Practices of the subject of Algorithmics at UBU.
+Final grade: 7 out of 10
