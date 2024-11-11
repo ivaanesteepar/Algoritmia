@@ -1,4 +1,4 @@
-<h2>Algorithmics</h2>
+<h2>Algoritmia</h2>
 
 <p>Practices for the Algorithmics subject at UBU.</p>
 
